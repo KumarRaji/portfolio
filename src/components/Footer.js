@@ -13,16 +13,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Naveen V</h3>
+          <h3>Designed and Developed by Kumar </h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} NV</h3>
+          <h3>Copyright © {year} KR</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/naveenv0906"
+                href="https://github.com/KumarRaji"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -32,7 +32,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.facebook.com/share/vnkxj3JMjnHhdup2/?mibextid=qi2Omg"
+                href="https://www.facebook.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -42,7 +42,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/naveenv0906"
+                href="https://www.linkedin.com/in/kumar-raji-34a8a7111/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -52,7 +52,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/__naveen96__"
+                href="https://www.instagram.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
