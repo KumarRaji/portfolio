@@ -4,9 +4,7 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
-  SiVercel,
   SiWindows,
-  SiOctanerender,
   SiIntellijidea,
 } from "react-icons/si";
 
